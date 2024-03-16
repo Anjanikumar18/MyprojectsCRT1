@@ -1,0 +1,9 @@
+my_list = [12,42,23,96,7,18,10,133]
+first_element = my_list[0]
+print("First Element:", first_element)
+last_element = my_list[-1]
+print("Last Element:", last_element)
+whole_list = my_list[:]
+print("Whole list:", whole_list)
+reversed_list = my_list[::-1]
+print("Reversed list:", reversed_list)
